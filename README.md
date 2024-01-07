@@ -2,9 +2,9 @@
 
 Mini projeto de responsividade em Flutter.
 
-Tamanhos suportados: 
-    - Mobile
-    - Tablet
-    - PC
+  
+Tamanhos suportados:
 
-
+- 📱 Mobile
+- 📱 Tablet
+- 💻 PC
